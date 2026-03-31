@@ -1,5 +1,5 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" height="auto" width="400" align="left" />
-<b>Hi I'm Pammy.<b>
+<b>Hi I'm Pammy.<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="30"><b>
 <br>
 I'm a passionate **FullStack Web Developer** with experience in modern web technologies like:
 <br>
@@ -18,14 +18,17 @@ I love building dynamic user interfaces and robust backend systems, and I'm alwa
 <br>
 <br>
 <br>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=PammyBanerjee9192&theme=cobalt&hide_border=true" alt="PammyBanerjee9192's GitHub Stats" />
+<div >
+<img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="200" align="left" style="margin-right: 200px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=PammyBanerjee9192&theme=cobalt&hide_border=true" alt="PammyBanerjee9192's GitHub Stats" align="center"/>
+<img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" align="right" width="150">
 </div>
 
 ###
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Pammy+Banerjee+👋;Java+Developer+💻;DSA+Enthusiast+🚀;Always+Learning+New+Things+✨" />
+ 
 </p>
 
 ###
@@ -65,7 +68,7 @@ I love building dynamic user interfaces and robust backend systems, and I'm alwa
 </div>
 
 ###
-<h2 align="left">Contact Me</h2>
+<h2 align="left">Contact Me<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="50"></h2>
 
 <p align="left">
   <i>Feel free to reach out for collaborations, projects, or just a tech chat 🚀</i>
