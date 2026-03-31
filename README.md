@@ -69,6 +69,7 @@ I love building dynamic user interfaces and robust backend systems, and I'm alwa
 
 <p align="left">
   <i>Feel free to reach out for collaborations, projects, or just a tech chat 🚀</i>
+ [![Pammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pammybanerjee9192&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF00FF&title_color=FF00FF&text_color=C770F0)](https://github.com/pammybanerjee9192)
 </p>
 
 <br>
