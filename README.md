@@ -18,13 +18,13 @@ I love building dynamic user interfaces and robust backend systems, and I'm alwa
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PammyBanerjee9192&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PammyBanerjee9192&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pammybanerjee9192&" alt="pammybanerjee9192" /></p>
+
 </div>
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/a080cfbbb2aea39c9e9504005747f9a103556be2dd86035103000b099c4fb7d6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966"  />
+
 
 ###
 
