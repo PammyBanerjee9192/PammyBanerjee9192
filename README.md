@@ -54,6 +54,9 @@ I love building dynamic user interfaces and robust backend systems, and I'm alwa
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="100px" alt="mysql logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="100px" alt="git logo" />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="100px" alt="github logo" />
   
  
 </div>
