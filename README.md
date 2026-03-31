@@ -18,8 +18,7 @@ I love building dynamic user interfaces and robust backend systems, and I'm alwa
 <br>
 <br>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pammybanerjee9192&" alt="pammybanerjee9192" /></p>
-
+<img src="https://streak-stats.demolab.com?user=PammyBanerjee9192&theme=cobalt&hide_border=true" alt="PammyBanerjee9192's GitHub Stats" />
 </div>
 
 ###
