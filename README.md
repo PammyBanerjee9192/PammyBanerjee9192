@@ -19,7 +19,7 @@ I love building dynamic user interfaces and robust backend systems, and I'm alwa
 <br>
 <br>
 <div >
-<img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="200" align="left" style="margin-right: 200px;"> 
+<img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="200" align="left" style="margin-right: 100px;"> 
 <img src="https://streak-stats.demolab.com?user=PammyBanerjee9192&theme=cobalt&hide_border=true" alt="PammyBanerjee9192's GitHub Stats" align="center"/>
 <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" align="right" width="150">
 </div>
