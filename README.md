@@ -4,6 +4,7 @@
 I'm a passionate **FullStack Web Developer** with experience in modern web technologies like:
 <br>
 - ✨ React, JavaScript, TypeScript....
+  <img src="https://cdn-icons-gif.flaticon.com/17122/17122780.gif" height="auto" width="100" align="right">
   <br>
 - ✨ HTML5, CSS3, Responsive Design....
   <br>
