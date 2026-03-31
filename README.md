@@ -71,7 +71,7 @@ I love building dynamic user interfaces and robust backend systems, and I'm alwa
 <h2 align="left">Contact Me<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="50"></h2>
 
 <p align="left">
-  <i>Feel free to reach out for collaborations, projects, or just a tech chat 🚀</i>
+  <i>Feel free to reach out for collaborations, projects, or just a tech chat<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="70"></i>
 </p>
 
 <br>
