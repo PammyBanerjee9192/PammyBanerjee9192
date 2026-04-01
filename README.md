@@ -19,7 +19,7 @@ I love building dynamic user interfaces and robust backend systems, and I'm alwa
 <br>
 <br>
 <div >
-<img src="https://cdn-icons-gif.flaticon.com/17122/17122708.gif" width="150" align="left"> 
+<img src="https://cdn-icons-gif.flaticon.com/17122/17122708.gif" width="150" align="left"> &nbsp;&nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=PammyBanerjee9192&theme=cobalt&hide_border=true" alt="PammyBanerjee9192's GitHub Stats" align="center"/>
  <img src="https://cdn-icons-gif.flaticon.com/17122/17122780.gif" height="auto" width="150" align="right">
 </div>
