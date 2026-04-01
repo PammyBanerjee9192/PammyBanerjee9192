@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhteG8zbHZjcjJoaXhkcTdrdDRyc2gzeWZ1NXA2MWVzbWRmZ2JpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7KoO34DOZH5cyBAT6H/giphy.gif" width="180" align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhteG8zbHZjcjJoaXhkcTdrdDRyc2gzeWZ1NXA2MWVzbWRmZ2JpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7KoO34DOZH5cyBAT6H/giphy.gif" width="200" align="right">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" height="auto" width="400" align="left" />
 <b>Hi I'm Pammy.<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="30"><b>
 <br>
